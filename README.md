@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alistair
 - 👀 I’m interested in music, programming, and stuff
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on nothing in particular
 - 📫 How to reach me @ajdj00#6446 on Discord
 
 <!---
